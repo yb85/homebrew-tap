@@ -1,4 +1,5 @@
 class Ffmpegx < Formula
+  # EXAMPLE : brew install yb85/tap/ffmpegx --with-chromaprint --with-fdk-aac --with-game-music-emu --with-jack --with-jpeg-xl --with-libmodplug --with-libopenmpt --with-libplacebo --with-librist --with-librsvg --with-libsoxr --with-libssh --with-tesseract --with-libvidstab --with-openal-soft --with-openapv --with-opencore-amr --with-openh264 --with-openjpeg --with-openssl --with-openvino --with-rav1e --with-svt-av1 --with-rtmpdump --with-rubberband --with-two-lame --with-webp --with-whisper-cpp --with-xvid --with-zeromq --with-zimg --with-srt --with-libvmaf --with-libxml2
   desc "Play, record, convert, and stream audio and video"
   homepage "https://ffmpeg.org/"
   url "https://ffmpeg.org/releases/ffmpeg-8.0.tar.xz"
